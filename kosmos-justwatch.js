@@ -4,7 +4,7 @@
   "id": "com.jakedup.justwatch",
   "version": 1,
   "classPath": "JakedUp.JustWatch",
-  "permaUrl": "https://syncler-providers.herokuapp.com/syncler/kosmos-justwatch.php"
+  "permaUrl": "https://raw.githubusercontent.com/titch71/test/main/kosmos-justwatch.js"
 }
 */
 
@@ -100,6 +100,7 @@
           "9": {
             "name": "Amazon Prime Video",
             "android_ids": [
+              "com.amazon.avod",
               "com.amazon.avod.thirdpartyclient",
               "com.amazon.amazonvideo.livingroom",
               "com.amazon.amazonvideo.livingroom.firetv"
