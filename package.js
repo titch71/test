@@ -4,7 +4,7 @@
   "id": "com.syncler.watch.now",
   "version": 1,
   "classPath": "watchNow.WatchNowPackage",
-  "permaUrl": "https://raw.githubusercontent.com/synclerd/watch-now-starter/main/package.js"
+  "permaUrl": "https://raw.githubusercontent.com/titch71/test/main/package.js"
 }
 */
 
@@ -50,7 +50,7 @@
         },
         {
             service: 'Prime Video',
-            androidPackageNames: ['com.amazon.avod.thirdpartyclient', 'com.amazon.amazonvideo.livingroom', 'com.amazon.amazonvideo.livingroom.firetv']
+            androidPackageNames: ['com.amazon.avod', 'com.amazon.avod.thirdpartyclient', 'com.amazon.amazonvideo.livingroom', 'com.amazon.amazonvideo.livingroom.firetv']
         },
         {
             service: 'HBO GO',
